@@ -1,4 +1,3 @@
-<!--
 ---
 layout: docs
 title: Alerts
@@ -117,4 +116,3 @@ $('#myAlert').on('closed.bs.alert', function () {
   // do something...
 })
 {% endhighlight %}
--->
